@@ -51,4 +51,6 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Developed by InnerCato
+Developed by InnerCato 
+
+(November 2020)
