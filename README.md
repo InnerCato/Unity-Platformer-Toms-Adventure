@@ -1,6 +1,6 @@
 # Toms adventure - Unity platformer
 
-This repository is an archive for an old project I made in Unity.
+This repository is an archive for an old project I made in Unity. 
 I made it when I was 10 years old so dont expect a masterpiece, its full of bugs and glitches,
 but im keeping it to show my progress as a developer.
 
@@ -32,9 +32,9 @@ Or open it as a unity project:
 ## Controls
 
 ### Starting
-`Continue` to select a level
-`New game` to start from the beginning
-`Quit` to quit
+- `Continue` to select a level
+- `New game` to start from the beginning
+- `Quit` to quit
 
 ### In-game
 - `Left` / `Right` to move  
